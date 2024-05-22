@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+.Login-wallpaper{
+    background: rgb(0, 212, 255);
+        background: radial-gradient(circle, rgba(0, 212, 255, 1) 8%, rgba(0, 177, 255, 1) 47%, rgba(26, 19, 142, 1) 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.navbar{
+    background: rgb(0, 212, 255);
+    background: linear-gradient(270deg, rgba(0, 212, 255, 1) 8%, rgba(0, 177, 255, 1) 47%, rgba(26, 19, 142, 1) 100%);
+}
