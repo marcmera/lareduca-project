@@ -57,7 +57,7 @@ O si prefieres compilar solo los archivos necesarios sin purgarlos:
 
 ### Base de datos
 
-Para la creación de la base de base de datos ejecuta el dump.sql que se encuentra en el proyecto:
+Para la creación de la base de base de datos ejecuta el dump.sql que se encuentra en el proyecto.
 
 ### Servidor de Desarrollo
 
