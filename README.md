@@ -23,7 +23,7 @@ Primero, clona este repositorio en tu máquina local utilizando Git:
 
 Navega al directorio del proyecto:
 
-    cd proyecto-laravel-tailwind
+    cd laravel-project
 
 ### Configurar el Entorno
 
